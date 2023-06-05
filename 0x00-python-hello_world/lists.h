@@ -9,7 +9,7 @@
  * Description: singly linked list node structure
  * @n: integer
  * @next: points to the next node
- * 
+ *
  */
 
 typedef struct listint_s
